@@ -2,14 +2,14 @@
 
 ### 个人介绍
 
-* Github ID: [birch](https://github.com/birchwork)
+* Github ID: [wake](https://github.com/wakesale)
 
-* Telegram ID: birchspace
+* Telegram ID: guage6999
 
-* Discord ID: birchrust
+* Discord ID: wake7210
 
 (首次如果没有，学习完毕钱包在填写)
-* Sui 账号地址: 0xdd8f2631d94fb709ea71b2b65f7da8ac745dca7a354d79c26d915de398010260
+* Sui 账号地址: 0x5edb419357945a67888a771938ef6a4876a98917b25ae8010dabc22a499195f5
 
 自由职业者
 
